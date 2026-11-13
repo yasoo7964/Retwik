@@ -6,10 +6,3 @@
 直接本アプリを起動しても使えます。<br>
 <br>
 <br>
-apk ver.   24.0<br>
-date       2026/11/13<br>
-targetSdk  36<br>
-compileSdk 36<br>
-minSdk     26<br>
-<br>
-<br>
